@@ -4,3 +4,5 @@
 24.04.2022 : Verbindung zur Datenbank hergestellt. : 2 Stunden
 
 25.04.2022 : Programmierung von GUI wird mit Loginseite gestartet. : 6 Stunden
+
+26.04.2022 : Debugging und andere Aufbesserungen : 2 Stunden
