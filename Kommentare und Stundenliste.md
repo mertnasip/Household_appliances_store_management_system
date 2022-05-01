@@ -7,4 +7,4 @@
 
 26.04.2022 : Debugging und andere Aufbesserungen : 2 Stunden
 
-01.05.2022 : Admin-, Verkaeufer- und Techniker GUIs haben addiert. : 4 Stunden
+01.05.2022 : Admin-, Verkaeufer- und Techniker GUIs haben addiert. : 6 Stunden
