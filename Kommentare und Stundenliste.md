@@ -6,3 +6,5 @@
 25.04.2022 : Programmierung von GUI wird mit Loginseite gestartet. : 6 Stunden
 
 26.04.2022 : Debugging und andere Aufbesserungen : 2 Stunden
+
+01.05.2022 : Admin-, Verkaeufer- und Techniker GUIs haben addiert. : 4 Stunden
