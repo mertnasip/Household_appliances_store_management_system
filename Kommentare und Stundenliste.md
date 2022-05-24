@@ -13,4 +13,4 @@
 
 (20/21/22).05.2022 : Admin-Aktualisierung Funktion werden addiert. : 10 Stunden
 
-23.05.2022 : Funktionen von Personalverwaltung-Seite werden addiert. : 10 Stunden
+(23/24).05.2022 : Funktionen von Personalverwaltung-Seite werden addiert. : 15 Stunden
