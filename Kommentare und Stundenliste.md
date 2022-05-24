@@ -8,3 +8,9 @@
 26.04.2022 : Debugging und andere Aufbesserungen : 2 Stunden
 
 01.05.2022 : Admin-, Verkaeufer- und Techniker GUIs haben addiert. : 6 Stunden
+
+12.05.2022 : Admin-löschen, -suchen und -addieren werden addiert. : 9 Stunden
+
+(20/21/22).05.2022 : Admin-Aktualisierung Funktion werden addiert. : 10 Stunden
+
+23.05.2022 : Funktionen von Personalverwaltung-Seite werden addiert. : 10 Stunden
