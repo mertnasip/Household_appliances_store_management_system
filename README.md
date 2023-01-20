@@ -1,4 +1,4 @@
-# Household_appliances_store_management_system
+# Household appliances store management system Sprint Plan
 
 ### 180503012_mertnasipoglu
 
